@@ -1,33 +1,19 @@
-# 📊 Machine Learning Project (HR)
+# 👨‍💼 HR Employee Attrition Analysis
 
 ## 📌 Overview
-This project performs data analysis and machine learning to predict outcomes using real-world data.
+This project predicts employee attrition using machine learning techniques.
 
-## 🛠️ Tools & Technologies
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
+## 🎯 Objective
+To identify factors that influence employee leaving decisions.
 
-## 🔍 Steps Performed
-1. Data Cleaning
-2. Exploratory Data Analysis (EDA)
-3. Feature Selection
-4. Model Building:
-   - Logistic Regression
-   - Random Forest
-5. Model Evaluation:
-   - Accuracy Score
-   - Confusion Matrix
+## 🔍 Key Features
+- Salary
+- Job Role
+- Work Experience
+
+## 📊 Models Used
+- Logistic Regression
+- Random Forest
 
 ## 📈 Results
-- Model Accuracy: XX%
-- Key insights from data visualization
-
-## 📂 Files Included
-- google colab (.ipynb)
-- Dataset (.csv)
-
-## 🚀 How to Run
-1. Open in Google Colab
-2. Run all cells
+- Identified key drivers of attrition
